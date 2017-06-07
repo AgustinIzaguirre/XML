@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>Minuto Uno - Minutouno.com - Mundo</title>
+		<description>Minuto Uno</description>
+		<link>http://www.minutouno.com</link>
+		<language>spa</language>
+		<lastBuildDate>Wed, 07 Jun 2017 11:28:10 ART</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.dosalcubo.com.ar</generator>
+		<copyright>Copyright (c) 2017</copyright>
+		<atom:link href="http://www.minutouno.com/rss/mundo.xml" rel="self" type="application/rss+xml" />		<image>
+			<title>Minuto Uno - Minutouno.com - Mundo</title>
+			<url>http://www.minutouno.com/css/images/t1.gif</url>
+			<link>http://www.minutouno.com</link>
+		</image>
+		<item>
+			<title><![CDATA[
+Inglaterra: un chacarero murió atropellado por su propio perro
+]]></title>
+			<link>http://www.minutouno.com/notas/1555457-inglaterra-un-chacarero-murio-atropellado-su-propio-perro</link>
+			<guid>http://www.minutouno.com/notas/1555457-inglaterra-un-chacarero-murio-atropellado-su-propio-perro</guid>
+			<description><![CDATA[
+<b>Derek Mead, </b>de 70 años, murió de un paro cardíaco luego de ser  atropellado por un tractor en Inglaterra. El vehículo se puso en  movimiento luego de que su perro<b> tocara por accidente la palanca de cambios.</b>
+]]></description>
+			<pubDate>Wed, 07 Jun 2017 10:57:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Así está Omran Daqnesh, el nene sirio ensangrentado tras un bombardeo
+]]></title>
+			<link>http://www.minutouno.com/notas/1555465-asi-esta-omran-daqnesh-el-nene-sirio-ensangrentado-un-bombardeo</link>
+			<guid>http://www.minutouno.com/notas/1555465-asi-esta-omran-daqnesh-el-nene-sirio-ensangrentado-un-bombardeo</guid>
+			<description><![CDATA[
+La foto de <b>Omran Daqneesh,</b> ensangrentado y lleno de polvo tras un bombardeo en Siria, se convirtió en un símbolo del horror de la guerra. <b>Ahora se conoció una imagen en la que se lo ve cómo está ahora.</b>
+]]></description>
+			<pubDate>Wed, 07 Jun 2017 10:11:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+VIDEO: Un tiburón atacó a un buzo en Florida
+]]></title>
+			<link>http://www.minutouno.com/notas/1555454-video-un-tiburon-ataco-un-buzo-florida</link>
+			<guid>http://www.minutouno.com/notas/1555454-video-un-tiburon-ataco-un-buzo-florida</guid>
+			<description><![CDATA[
+Un buceador filmó con su cámara el momento en el que un tiburón lo atacó  en Key West, Florida, Estados Unidos, y le dejó una profunda herida en  su pierna. 
+]]></description>
+			<pubDate>Wed, 07 Jun 2017 09:59:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+Harvard rescindió la admisión a estudiantes por compartir memes obscenos
+]]></title>
+			<link>http://www.minutouno.com/notas/1555433-harvard-rescindio-la-admision-estudiantes-compartir-memes-obscenos</link>
+			<guid>http://www.minutouno.com/notas/1555433-harvard-rescindio-la-admision-estudiantes-compartir-memes-obscenos</guid>
+			<description><![CDATA[
+<div>El departamento de admisión de la Universidad de Harvard rescindió la  admisión de por lo menos diez estudiantes por haber publicado memes en  su cuenta de Facebook.</div>
+]]></description>
+			<pubDate>Wed, 07 Jun 2017 09:21:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+La descalifican de un torneo de fútbol porque parece un nene
+]]></title>
+			<link>http://www.minutouno.com/notas/1555456-la-descalifican-un-torneo-futbol-porque-parece-un-nene</link>
+			<guid>http://www.minutouno.com/notas/1555456-la-descalifican-un-torneo-futbol-porque-parece-un-nene</guid>
+			<description><![CDATA[
+<b>Milagros Hernández</b>, de 8 años, fue <b>descalificada</b> junto a su<b> equipo </b>por los <b>organizadores de un torneo de fútbol </b>que argumentaron que <b>ella era un nene</b>. <br><br>
+]]></description>
+			<pubDate>Wed, 07 Jun 2017 09:11:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title><![CDATA[
+VIDEO: Así fue el tiroteo en el parlamento de Irán
+]]></title>
+			<link>http://www.minutouno.com/notas/1555428-video-asi-fue-el-tiroteo-el-parlamento-iran</link>
+			<guid>http://www.minutouno.com/notas/1555428-video-asi-fue-el-tiroteo-el-parlamento-iran</guid>
+			<description><![CDATA[
+Un doble atentado en Irán dejó al menos 12 muertos y 39 heridos en ataques que se atribuyó ISIS.
+]]></description>
+			<pubDate>Wed, 07 Jun 2017 07:19:00 GMT</pubDate>
+		</item>
+
+	</channel></rss>
